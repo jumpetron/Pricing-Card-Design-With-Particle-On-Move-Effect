@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+/* particles div style */
+.mouseMove {
+    position: absolute;
+    border-radius: 5px;
+    left: 0;
+    top: 0;
+    z-index: 1; /* Set the z-index to 1 to place particles below the card content */
+}

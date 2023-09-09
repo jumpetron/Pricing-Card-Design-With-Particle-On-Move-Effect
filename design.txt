@@ -1,0 +1,18 @@
+=> title__section
+Choose Your Plan
+Flexible Pricing, Exclusive Benefits
+
+=> card-1
+Save More With Goodplans
+Choose a plan and get onboard in minutes.then get $100 credits for your next payment
+
+=> card-2, card-3
+Day Pass, Monthly Pass
+What You'll Get
+
+=> feature__list
+8 hours usage of our coworking space
+Access to all our rooms
+Dedicated desk
+Free business address
+Free lunch 1x a day
